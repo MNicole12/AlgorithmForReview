@@ -1,4 +1,4 @@
-# AlgorithmForReview
+# AlgorithmForReview (https://en.wikipedia.org/wiki/K-anonymity)
 Params: (k=2) QID list= [name,religion]:
 
 input dataset:
